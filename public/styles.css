@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+  min-height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textInput {
+  height: 50%;
+  background: transparent;
+  border: none;
+  outline: none;
+}
